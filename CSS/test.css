@@ -1,0 +1,20 @@
+/* comment */
+h2 {
+   color: green;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+h4 {
+    color: peru;
+}
+
+#my-title {
+    color: palegreen;
+}
+
+.my-span {
+    color: plum;
+}
