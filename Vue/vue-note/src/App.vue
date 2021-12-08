@@ -1,12 +1,18 @@
 <template>
   <div id="app">
     <router-view />
+    <count />
   </div>
 </template>
 
 <script>
+import count from '@/views/count'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    count
+  }
 }
 </script>
 
